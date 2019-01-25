@@ -7,4 +7,3 @@ Example to take a screenshot of the www.google.com using puppeteer.
 
 #### Example 2
 Example to scrape the hacker news website(https://news.ycombinator.com/).
-git commit -m "first commit"
